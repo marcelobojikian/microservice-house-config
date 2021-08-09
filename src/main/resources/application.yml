@@ -15,3 +15,4 @@ spring:
           uri: ${CLOUD_CONFIG_SERVER_URI}
           search-paths: 
             - transaction
+            - house
